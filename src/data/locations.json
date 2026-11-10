@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "name": "Ubbog, Santiago, Ilocos Sur",
+    "type": "My Address",
+    "description": "My home in the Philippines.",
+    "coordinates": { "lat": 17.2900, "lng": 120.4500 },
+    "mapUrl": "https://maps.google.com/maps?q=Ubbog%2C%20Santiago%2C%20Ilocos%20Sur&t=&z=13&ie=UTF8&iwloc=&output=embed"
+  }
+]
